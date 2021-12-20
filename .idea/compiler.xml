@@ -15,7 +15,7 @@
     <bytecodeTargetLevel>
       <module name="for-me" target="8" />
       <module name="leetcode-study" target="1.8" />
-      <module name="leetCode-study" target="1.5" />
+      <module name="leetCode-study" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
