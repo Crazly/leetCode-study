@@ -1,5 +1,7 @@
 package com.study.example.leetcodestudy.推荐一百;
 
+import org.springframework.util.CollectionUtils;
+
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
@@ -16,19 +18,19 @@ public class study_002 {
      * 左括号必须以正确的顺序闭合。
      *
      * 示例 1：
-     * 输入：s = "()"
+     * 输入：s = '()'
      * 输出：true
      * 示例 2：
-     * 输入：s = "()[]{}"
+     * 输入：s = '()[]{}'
      * 输出：true
      * 示例 3：
-     * 输入：s = "(]"
+     * 输入：s = '(]'
      * 输出：false
      * 示例 4：
-     * 输入：s = "([)]"
+     * 输入：s = '([)]'
      * 输出：false
      * 示例 5：
-     * 输入：s = "{[]}"
+     * 输入：s = '{[]}'
      * 输出：true
      * 提示：
      * 1 <= s.length <= 104
@@ -64,7 +66,7 @@ public class study_002 {
     }
 
     public static void main(String[] args) {
-        String str ="({)})[]";
+        String str ="({})[]";
         System.out.println(checkStr(str));
     }
 

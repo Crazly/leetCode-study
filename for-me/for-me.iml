@@ -26,9 +26,9 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.0.8.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:5.0.8.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.0.8.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.13" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.13" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.13" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.17" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.17" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.17" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.3" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.8" level="project" />
