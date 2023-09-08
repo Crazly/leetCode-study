@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.ibm.mq">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/XMLToTXTConverter/backup0726/NoLog4j/com.ibm.mq.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

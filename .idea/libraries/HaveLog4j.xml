@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="HaveLog4j">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/XMLToTXTConverter/backup0726/NoLog4j/HaveLog4j/connector.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/XMLToTXTConverter/backup0726/NoLog4j/HaveLog4j/log4j.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/XMLToTXTConverter/backup0726/NoLog4j/HaveLog4j/com.ibm.mq.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/XMLToTXTConverter/backup0726/NoLog4j/HaveLog4j/XMLToTXTConverter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

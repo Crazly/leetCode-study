@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/ITLMToolkit.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/xworacle.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/Collabutils.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/CWJDBC.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/CWSAP.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/xwutil.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/datamanager.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/snmp.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/CwUtilities.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/wbisnmpconfigmgmt.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/CWWebSphereMQ.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/cworion.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/wbisnmpagent.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/ConfigWizard.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/ToolsUI.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/xwbase.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/wbisnmpconfigwizard.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/xrmi.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/BQUtils.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/jlog.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/xwsqlserver.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/CrossWorlds/lib/CodeGeneration.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

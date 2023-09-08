@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jdiff">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../newPlatform/spring-freamwork/gradle/jdiff/jdiff.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../newPlatform/spring-freamwork/gradle/jdiff/antjdiff.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../newPlatform/spring-freamwork/gradle/jdiff/xerces.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

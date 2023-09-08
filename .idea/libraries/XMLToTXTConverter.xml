@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="XMLToTXTConverter">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/XMLToTXTConverter/log4j.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/XMLToTXTConverter/connector.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/XMLToTXTConverter/XMLToTXTConverter.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/XMLToTXTConverter/XMLToTXTConverter_bak.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/XMLToTXTConverter/com.ibm.mq.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ics">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/xml-conveter/lib/ics/com.ibm.mq.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/xml-conveter/lib/ics/log4j.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/ics_code/xml-conveter/lib/ics/connector.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CwDataHandler">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/DataHandlers/CwDataHandler.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/DataHandlers/CwSOAPDataHandler.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/老ICS迁移/DataHandlers/CwXMLDataHandler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
